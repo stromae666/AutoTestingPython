@@ -1,1 +1,1 @@
-# AutoTestingPython
+# AutoTesting for Python
